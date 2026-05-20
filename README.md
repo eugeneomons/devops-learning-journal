@@ -42,6 +42,16 @@ The goal of this journal is simple:
 
 ## 📂 Repository Structure
 
+devops-learning-journal/
+│
+├── bash/          # Scripts, automation, notes
+├── docker/        # Dockerfiles, drills, mini-projects
+├── git/           # Git exercises, workflows, examples
+├── kubernetes/    # YAML manifests, deployments, services
+├── ci-cd/         # Pipelines (GitHub Actions, GitLab CI, etc.)
+│
+├── PROGRESS.md    # Timeline of my learning journey
+└── README.md      # You are here
 
 Each folder contains:
 - Notes
